@@ -1,0 +1,5 @@
+rootProject.name = 'alarm-bot'
+include 'external'
+include 'core'
+include 'batch'
+
