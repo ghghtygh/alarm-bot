@@ -1,4 +1,4 @@
-package org.gpg.alarm.application.dto.request;
+package org.gpg.alarm.send.application.dto.request;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
