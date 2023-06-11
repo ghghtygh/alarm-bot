@@ -40,3 +40,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### 프로퍼티 ###
+**/src/main/resources/*-local.yml
+**/src/main/resources/*-dev.yml
+**/src/main/resources/*-prod.yml
+**/src/main/resources/*-test.yml
